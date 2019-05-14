@@ -1,0 +1,577 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (min-width:200px) and (max-width: 575px) {
+    /* Intro */
+    #intro{
+        padding-top: 70px;
+    }
+    .em{
+        font-size: 25px;
+    }
+    .introText{
+        font-size: 3.5rem;
+    }
+    .introText1{
+        font-size: 1.8rem;
+        padding: 20px 0px;
+        letter-spacing: 2px;
+        line-height: 1.2;
+    }
+
+    /*Project CSS*/
+    #projects{
+        padding: 70px 0px;
+        margin-bottom: 20px;
+    }
+    .project{
+        margin: 10px 0px;
+    }
+    .project_img{
+        max-width: 100%;
+        display: block;
+        margin: 0px 20px;
+
+    }
+    .overlay{
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 20px;
+        right: 20px;
+        height: 100%;
+        width: 100%;
+        opacity: 0;
+        transition: .5s ease;
+        background-color: rebeccapurple;
+    }
+    .title{
+        position: absolute;
+        color: gold;
+        font-size: 20px;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        text-align: center;
+    }
+    .projectType{
+        position: relative;
+        color: whitesmoke;
+        font-size: 15px;
+        top: 25%;
+        text-align: center;
+    }
+    .projectText{
+        position: relative;
+        color:whitesmoke;
+        font-size: 12px;
+        top: 30%;
+        text-align: center;
+        padding: 0px 10px;
+        
+    }
+    .underDevelopment{
+        position: relative;
+        color: whitesmoke;
+        font-size: 15px;
+        top: 40%;
+        text-align: center;
+    }
+    .projectSchool{
+        position: relative;
+        color:whitesmoke;
+        font-size: 12px;
+        top: 40%;
+        text-align: center;
+        padding: 0px 10px;
+    }
+    .project:hover .overlay {
+        opacity: 1;
+    }
+
+    /* ABOUT CSS */
+    #about{
+        padding-top: none !important;
+    }
+    #aboutRow{
+        padding-top: 30px;
+    }
+    .bio{
+        line-height: 2.5rem;    
+    }
+    #PaulKwon{
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .aboutEmoji{
+        margin: 10px 0px;
+    }
+    .contactEmoji{
+        color: black;
+        padding: 5px;
+        text-decoration: none !important;
+    }
+    .contactEmoji:hover{
+        color: rebeccapurple;
+        text-decoration: none !important;
+    }
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px) {
+    /* Intro */
+    #intro{
+        padding-top: 70px;
+    }
+    .em{
+        font-size: 25px;
+    }
+    .introText{
+        font-size: 3.5rem;
+    }
+    .introText1{
+        font-size: 1.5rem;
+        padding: 20px 0px;
+        letter-spacing: 2px;
+        line-height: 1.6;
+    }
+
+    /*Project CSS*/
+    #projects{
+        padding: 70px 0px;
+        margin-bottom: 110px;
+    }
+    .project{
+        margin: 10px 0px;
+    }
+    .project_img{
+        max-width: 100%;
+        display: block;
+        margin: 0px 20px;
+
+    }
+    .overlay{
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 20px;
+        right: 20px;
+        height: 100%;
+        width: 100%;
+        opacity: 0;
+        transition: .5s ease;
+        background-color: rebeccapurple;
+    }
+    .title{
+        position: absolute;
+        color: gold;
+        font-size: 20px;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        text-align: center;
+    }
+    .projectType{
+        display: none !important;
+    }
+    .projectText{
+        position: relative;
+        color:whitesmoke;
+        font-size: 12px;
+        top: 40%;
+        text-align: center;
+        padding: 0px 10px;
+        
+    }
+    .underDevelopment{
+        display: none !important;
+    }
+    .projectSchool{
+        position: relative;
+        color:whitesmoke;
+        font-size: 12px;
+        top: 40%;
+        text-align: center;
+        padding: 0px 10px;
+    }
+    .project:hover .overlay {
+        opacity: 1;
+    }
+
+    /* ABOUT CSS */
+    #about{
+        padding-top: 70px;
+    }
+    #aboutRow{
+        padding-top: 30px;
+    }
+    .bio{
+        line-height: 2.0rem;    
+    }
+    #PaulKwon{
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .aboutEmoji{
+        margin: 10px 0px;
+    }
+    .contactEmoji{
+        color: black;
+        padding: 5px;
+        text-decoration: none !important;
+    }
+    .contactEmoji:hover{
+        color: rebeccapurple;
+        text-decoration: none !important;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+    /* Intro */
+    #intro{
+        padding-top: 70px;
+    }
+    .em{
+        font-size: 25px;
+    }
+    .introText{
+        font-size: 3.5rem;
+    }
+    .introText1{
+        font-size: 2rem;
+        padding: 20px 0px;
+        letter-spacing: 2px;
+        line-height: 1.6;
+    }
+
+    /*Project CSS*/
+    #projects{
+        padding: 70px 0px;
+        margin-bottom: 110px;
+    }
+    .project{
+        margin: 10px 0px;
+    }
+    .project_img{
+        max-width: 100%;
+        display: block;
+        margin: 0px 20px;
+
+    }
+    .overlay{
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 20px;
+        right: 20px;
+        height: 100%;
+        width: 100%;
+        opacity: 0;
+        transition: .5s ease;
+        background-color: rebeccapurple;
+    }
+    .title{
+        position: absolute;
+        color: gold;
+        font-size: 20px;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        text-align: center;
+    }
+    .projectType{
+        display: none !important;
+    }
+    .projectText{
+        position: relative;
+        color:whitesmoke;
+        font-size: 12px;
+        top: 40%;
+        text-align: center;
+        padding: 0px 10px;
+        
+    }
+    .underDevelopment{
+        position: relative;
+        color: whitesmoke;
+        font-size: 15px;
+        top: 40%;
+        text-align: center;
+    }
+    .projectSchool{
+        position: relative;
+        color:whitesmoke;
+        font-size: 12px;
+        top: 40%;
+        text-align: center;
+        padding: 0px 10px;
+    }
+    .project:hover .overlay {
+        opacity: 1;
+    }
+
+    /* ABOUT CSS */
+    #about{
+        padding-top: 70px;
+    }
+    #aboutRow{
+        padding-top: 30px;
+    }
+    .bio{
+        line-height: 2.0rem;    
+    }
+    #PaulKwon{
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .aboutEmoji{
+        margin: 10px 0px;
+    }
+    .contactEmoji{
+        color: black;
+        padding: 5px;
+        text-decoration: none !important;
+    }
+    .contactEmoji:hover{
+        color: rebeccapurple;
+        text-decoration: none !important;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px) {
+    /* Intro */
+    #intro{
+        padding-top: 70px;
+    }
+    .em{
+        font-size: 25px;
+    }
+    .introText{
+        font-size: 4.5rem;
+    }
+    .introText1{
+        font-size: 2rem;
+        padding: 20px 0px;
+        letter-spacing: 2px;
+        line-height: 1.6;
+    }
+
+    /*Project CSS*/
+    #projects{
+        padding: 70px 0px;
+        margin-bottom: 110px;
+    }
+    .project{
+        margin: 10px 0px;
+    }
+    .project_img{
+        max-width: 100%;
+        display: block;
+        margin: 0px 20px;
+    }
+    .overlay{
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 20px;
+        right: 20px;
+        height: 100%;
+        width: 100%;
+        opacity: 0;
+        transition: .5s ease;
+        background-color: rebeccapurple;
+    }
+    .title{
+        position: absolute;
+        color: gold;
+        font-size: 18px;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        text-align: center;
+    }
+    .projectType{
+        display: none !important;
+    }
+    .projectText{
+        position: relative;
+        color:whitesmoke;
+        font-size: 12px;
+        top: 35% !important;
+        text-align: center;
+        padding: 0px 10px;
+        
+    }
+    .underDevelopment{
+        position: relative;
+        color: whitesmoke;
+        font-size: 15px;
+        top: 30% !important;
+        text-align: center;
+    }
+    .projectSchool{
+        position: relative;
+        color:whitesmoke;
+        font-size: 12px;
+        top: 40%;
+        text-align: center;
+        padding: 0px 10px;
+    }
+    .project:hover .overlay {
+        opacity: 1;
+    }
+
+    /* ABOUT CSS */
+    #about{
+        padding-top: 70px;
+    }
+    #aboutRow{
+        padding-top: 30px;
+    }
+    .bio{
+        line-height: 2.5rem;    
+    }
+    #PaulKwon{
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .aboutEmoji{
+        margin: 10px 0px;
+    }
+    .contactEmoji{
+        color: black;
+        padding: 5px;
+        text-decoration: none !important;
+    }
+    .contactEmoji:hover{
+        color: rebeccapurple;
+        text-decoration: none !important;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    /* Intro */
+    #intro{
+        padding-top: 70px;
+    }
+    .em{
+        font-size: 25px;
+    }
+    .introText{
+        font-size: 4.5rem;
+    }
+    .introText1{
+        font-size: 2rem;
+        padding: 20px 0px;
+    }
+
+    /*Project CSS*/
+    #projects{
+        padding: 70px 0px;
+        margin-bottom: 110px;
+    }
+    .project{
+        margin: 10px 0px;
+    }
+    .project_img{
+        max-width: 100%;
+        display: block;
+        margin: 0px 20px;
+
+    }
+    .overlay{
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 20px;
+        right: 20px;
+        height: 100%;
+        width: 100%;
+        opacity: 0;
+        transition: .5s ease;
+        background-color: rebeccapurple;
+    }
+    .title{
+        position: absolute;
+        color: gold;
+        font-size: 20px;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        text-align: center;
+    }
+    .projectType{
+        position: relative;
+        color: whitesmoke;
+        font-size: 15px;
+        top: 25%;
+        text-align: center;
+    }
+    .projectText{
+        position: relative;
+        color:whitesmoke;
+        font-size: 12px;
+        top: 30%;
+        text-align: center;
+        padding: 0px 10px;
+        
+    }
+    .underDevelopment{
+        position: relative;
+        color: whitesmoke;
+        font-size: 15px;
+        top: 40%;
+        text-align: center;
+    }
+    .projectSchool{
+        position: relative;
+        color:whitesmoke;
+        font-size: 12px;
+        top: 40%;
+        text-align: center;
+        padding: 0px 10px;
+    }
+    .project:hover .overlay {
+        opacity: 1;
+    }
+
+    /* ABOUT CSS */
+    #about{
+        padding-top: 70px;
+    }
+    #aboutRow{
+        padding-top: 30px;
+    }
+    .bio{
+        line-height: 2.5rem;    
+    }
+    #PaulKwon{
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .aboutEmoji{
+        margin: 10px 0px;
+    }
+    .contactEmoji{
+        color: black;
+        padding: 5px;
+        text-decoration: none !important;
+    }
+    .contactEmoji:hover{
+        color: rebeccapurple;
+        text-decoration: none !important;
+    }
+}
+

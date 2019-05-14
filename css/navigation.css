@@ -1,0 +1,174 @@
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media(min-width :200px) and (max-width: 575px){
+    body{
+        background-color: #e7e1e1 
+        /*background-color: gold;*/
+    }
+    
+    /* Sticky Top Navigation */
+    .fixed-top{
+        background-color: rebeccapurple;
+        height:70px !important;
+    }
+    
+    /* Navigation on the Top Right */
+    .navv, .navv a{
+        text-align: center;
+        color: gold;
+        font-weight: 600;
+        text-decoration: none;
+        margin: 0px 5px;
+    }
+
+    .navv a:hover{
+        color: whitesmoke;
+        text-decoration: none;
+    }
+    
+    /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+    #content {
+        margin-top: 100px;
+        transition: margin-left .5s;
+        /*padding: 20px;*/
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px){
+    body{
+        background-color: #e7e1e1 
+        /*background-color: gold;*/
+    }
+    
+    /* Sticky Top Navigation */
+    .fixed-top{
+        background-color: rebeccapurple;
+        height:70px !important;
+    }
+    
+    /* Navigation on the Top Right */
+    .navv, .navv a{
+        text-align: right;
+        color: gold;
+        font-weight: 600;
+        text-decoration: none;
+        margin: 0px 15px;
+    }
+
+    .navv a:hover{
+        color: whitesmoke;
+        text-decoration: none;
+    }
+    
+    /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+    #content {
+        margin-top: 100px;
+        transition: margin-left .5s;
+        /*padding: 20px;*/
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px){
+    body{
+        background-color: #e7e1e1 
+        /*background-color: gold;*/
+    }
+    
+    /* Sticky Top Navigation */
+    .fixed-top{
+        background-color: rebeccapurple;
+        height:70px !important;
+    }
+    
+    /* Navigation on the Top Right */
+    .navv, .navv a{
+        text-align: right;
+        color: gold;
+        font-weight: 600;
+        text-decoration: none;
+        margin: 0px 15px;
+    }
+
+    .navv a:hover{
+        color: whitesmoke;
+        text-decoration: none;
+    }
+    
+    /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+    #content {
+        margin-top: 100px;
+        transition: margin-left .5s;
+        /*padding: 20px;*/
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px){
+    body{
+        background-color: #e7e1e1 
+        /*background-color: gold;*/
+    }
+    
+    /* Sticky Top Navigation */
+    .fixed-top{
+        background-color: rebeccapurple;
+        height:70px !important;
+    }
+    
+    /* Navigation on the Top Right */
+    .navv, .navv a{
+        text-align: right;
+        color: gold;
+        font-weight: 600;
+        text-decoration: none;
+        margin: 0px 15px;
+    }
+
+    .navv a:hover{
+        color: whitesmoke;
+        text-decoration: none;
+    }
+    
+    /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+    #content {
+        margin-top: 100px;
+        transition: margin-left .5s;
+        /*padding: 20px;*/
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    body{
+        background-color: #e7e1e1 
+        /*background-color: gold;*/
+    }
+    
+    /* Sticky Top Navigation */
+    .fixed-top{
+        background-color: rebeccapurple;
+        height:70px !important;
+    }
+    
+    /* Navigation on the Top Right */
+    .navv, .navv a{
+        text-align: right;
+        color: gold;
+        font-weight: 600;
+        text-decoration: none;
+        margin: 0px 15px;
+    }
+
+    .navv a:hover{
+        color: whitesmoke;
+        text-decoration: none;
+    }
+    
+    /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+    #content {
+        margin-top: 100px;
+        transition: margin-left .5s;
+        /*padding: 20px;*/
+    }
+}
