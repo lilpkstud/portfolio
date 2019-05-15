@@ -100,7 +100,7 @@
                     </div>
                     <div class='col-lg-4 col-sm-6 project'>
                         <a href="/views/yellow/index.php" target='_blank'>
-                            <img class='project_img' src="/img/projects/mini/yellow.jpg" alt="">
+                            <img class='project_img' src="/img/projects/yellow.jpg" alt="">
                             <div class='overlay'>
                                 <h3 class='title'>Lots of Yellow</h3>
                                 <p class='projectType'><strong>(Freelance)</strong></p>
@@ -110,7 +110,7 @@
                     </div>
                     <div class='col-lg-4 col-sm-6 project'>
                         <a href="http://www.tcpcmuyg.com" target='_blank'>
-                            <img class='project_img' src="/img/projects/mini/mu_logo.png" alt="">
+                            <img class='project_img' src="/img/projects/mu_logo.png" alt="">
                             <div class='overlay'>
                                 <h3 class='title'>TCPCMUYG.COM</h3>
                                 <p class='projectType'><strong>(Freelance)</strong></p>
@@ -120,7 +120,7 @@
                     </div>
                     <div class='col-lg-4 col-sm-6 project'>
                         <a href="https://github.com/lilpkstud/Travel-Buddy" target='_blank'>
-                            <img class='project_img' src="/img/projects/mini/travel.jpg" alt="">
+                            <img class='project_img' src="/img/projects/travel.jpg" alt="">
                             <div class='overlay'>
                                 <h3 class='title'> Travel Buddy</h3>
                                 <p class='projectType'> <strong> (School: LAMP Stack Test where students had 4 hours to complete the project) </strong></p>
@@ -130,7 +130,7 @@
                     </div>
                     <div class='col-lg-4 col-sm-6 project'>
                         <a href="https://github.com/lilpkstud/Quotes" target='_blank'>
-                            <img class='project_img' src="/img/projects/mini/quotes.jpg" alt="">
+                            <img class='project_img' src="/img/projects/quotes.jpg" alt="">
                             <div class='overlay'>
                                 <h3 class='title'> Quotes Generator</h3>
                                 <p class='projectType'><strong>(School: LAMP Stack Test where students had 4 hours to complete the project)</strong></p>
@@ -151,7 +151,6 @@
                     <div class='col-lg-6'>
                         <h1 style='text-align:center'>PAUL S. KWON</h1>
                         <p class='bio'> My first "Hello, World" program was in Java when I was taking a computer science course during my sophomore year in college. I failed that course because of pure laziness, but I was fascinated on how I was able to create anything on my computer....just not in Java. I decided to take a three month coding program where I became proficient in the LAMP Stack while dabbling with the MEAN Stack.</p>
-                        <!--  LOOKUP BRIAN CHIA OF WHY I CREATE CODING -->
                         <p class='bio'> I am currently attending the Univeristy of Washington to get my Project Management Certification in order to take the PMP Exam. I have previous experience as a Quality Assurance Test Engineer and a freelance web developer for local businesses. I am looking for Project Management roles while available to meet future clients to help build their website. </p>
                         <h3>ABOUT ME:</h3>
                         <ul>
