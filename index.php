@@ -87,7 +87,7 @@
                         </a>
                     </div>
                     <div class='col-lg-4 col-sm-6 project'>
-                        <a href="/views/projects/sharon/index.php">
+                        <a href="http://www.sharonharrah.com">
                         <!-- Working File: <a href="/views/lunchbox/index.php" target='_blank'> -->
                             <img class='project_img' src="/img/projects/sharon.png" alt="">
                             <div class='overlay'>
