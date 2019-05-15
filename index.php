@@ -89,7 +89,7 @@
                     <div class='col-lg-4 col-sm-6 project'>
                         <a href="/views/projects/sharon/index.php">
                         <!-- Working File: <a href="/views/lunchbox/index.php" target='_blank'> -->
-                            <img class='project_img' src="/views/projects/sharon/img/aboutMe.png" alt="">
+                            <img class='project_img' src="/img/projects/sharon.png" alt="">
                             <div class='overlay'>
                                 <h3 class='title'>Sharon Harrah</h3>
                                 <p class='projectType'><strong>(Freelance)</strong></p>
