@@ -103,7 +103,7 @@
                             <img class='project_img' src="/img/projects/movie.jpg" alt="">
                             <div class='overlay'>
                                 <h3 class='title'>My Movies</h3>
-                                <p class='projectType'><strong>(Personal)</strong></p>
+                                <p class='projectType'><strong>(Personal Project)</strong></p>
                                 <p class='projectText'>My personal korean movie/drama recommendations.</p>
                             </div>
                         </a>
