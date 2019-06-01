@@ -99,6 +99,16 @@
                         </a>
                     </div>
                     <div class='col-lg-4 col-sm-6 project'>
+                        <a href="https://pauls-movies.herokuapp.com/" target='_blank'>
+                            <img class='project_img' src="/img/projects/movie.jpg" alt="">
+                            <div class='overlay'>
+                                <h3 class='title'>My Movies</h3>
+                                <p class='projectType'><strong>(Personal)</strong></p>
+                                <p class='projectText'>My personal korean movie/drama recommendations.</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class='col-lg-4 col-sm-6 project'>
                         <a href="/views/yellow/index.php" target='_blank'>
                             <img class='project_img' src="/img/projects/yellow.jpg" alt="">
                             <div class='overlay'>
