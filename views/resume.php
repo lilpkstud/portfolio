@@ -10,7 +10,7 @@
     <script type="text/javascript">
         function load() 
         {
-            window.location.href = "../img/PaulKwonResume2018.pdf";
+            window.location.href = "../img/PaulKwonResume2019.pdf";
         }
     </script>
     <!-- Global Google Analytics -->
