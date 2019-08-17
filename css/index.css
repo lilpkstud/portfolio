@@ -95,7 +95,10 @@
     #aboutRow{
         padding-top: 30px;
     }
-    .bio{
+    #bio{
+        margin-top: 20px;
+    }
+    .bioText{
         line-height: 2.5rem;    
     }
     #PaulKwon{
@@ -207,7 +210,10 @@
     #aboutRow{
         padding-top: 30px;
     }
-    .bio{
+    #bio{
+        margin-top: 20px;
+    }
+    .bioText{
         line-height: 2.0rem;    
     }
     #PaulKwon{
@@ -322,7 +328,10 @@
     #aboutRow{
         padding-top: 30px;
     }
-    .bio{
+    #bio{
+        margin-top: 20px;
+    }
+    .bioText{
         line-height: 2.0rem;    
     }
     #PaulKwon{
@@ -436,7 +445,7 @@
     #aboutRow{
         padding-top: 30px;
     }
-    .bio{
+    .bioText{
         line-height: 2.5rem;    
     }
     #PaulKwon{
@@ -553,7 +562,7 @@
     #aboutRow{
         padding-top: 30px;
     }
-    .bio{
+    .bioText{
         line-height: 2.5rem;    
     }
     #PaulKwon{
