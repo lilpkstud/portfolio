@@ -95,6 +95,16 @@
                 <hr style='border-width: 3px'>
                 <div class='row container-fluid '>
                     <div class='col-lg-4 col-md-6 project'>
+                        <a href="https://www.ocpcrbm.org/" target="_blank">
+                            <img class='project_img img-fluid' src="/img/projects/ocpc.png" alt="">
+                            <div class='overlay'>
+                                <h3 class='title'>ocpcrbm.org</h3>
+                                <p class='projectType'><strong>(Freelance)</strong></p>
+                                <p class='projectText'>Responsive website built to inform users of latest events, pastor sermon notes, and information about the youth group.</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class='col-lg-4 col-md-6 project'>
                         <a href="/views/homebuilding.php" target="_blank">
                             <img class='project_img img-fluid' src="/img/projects/home.jpg" alt="">
                             <div class='overlay'>
@@ -183,8 +193,7 @@
                     <div id="bio" class='col-md-12 col-lg-6' style="border: solid">
                         <h1 style='text-align:center'>PAUL S. KWON</h1>
                         <p class='bioText'> My first "Hello, World" program was in Java when I was taking a computer science course during my sophomore year in college. I failed that course because of pure laziness, but I was fascinated on how I was able to create anything on my computer....just not in Java. I decided to take a three month coding program where I became proficient in the LAMP Stack while dabbling with the MEAN Stack.</p>
-                        <p class='bioText'> I also have experience as a project manager. I have recently attained my project management certification from the University of Washington in  2018. My capstone project is a perfect example where I successfully led my team to identify project requirements and specifications to create a defined scope and a Work Breakdown Structure (WBS) during project planning. I also developed estimates of activity resources and activity durations to create the project's schedule using Microsoft Project. </p>
-                        <p class="bioText">I am currently a freelance web developer that helps local businesses and organizations while also looking for project management positions to gain experience as a PM.</p>
+                        <p class='bioText'> I am also a experienced project manager. I attained my project management certification from the University of Washington in 2018 and I am currently a project manager at OpenSquare. My primary role is to be accountable for developing the scope, schedule, budget, and resources needed for each concurrent project(s) across all Amazon campuses located in Seattle. I lead and facilitate a team of 10 - 15 crew members ranging from installers, foreman, designers, project coordinators, and movers. </p>
                         <h3>ABOUT ME:</h3>
                         <ul>
                             <li class='aboutEmoji'> Korean-American <i class="em em-kr"></i><i class="em em-us"></i> </li>
